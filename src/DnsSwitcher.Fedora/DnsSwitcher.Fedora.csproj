@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>dnsswitcher</AssemblyName>
+    <RootNamespace>DnsSwitcher.Fedora</RootNamespace>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Product>DNS Switcher</Product>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../DnsSwitcher.Core/DnsSwitcher.Core.csproj" />
+    <PackageReference Include="GtkSharp" Version="3.24.24.95" />
+    <EmbeddedResource Include="Resources/icon.png;Resources/icon.svg;Resources/route-map.png;Resources/style.css" />
+  </ItemGroup>
+</Project>
