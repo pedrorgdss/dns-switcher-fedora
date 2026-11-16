@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+dist/
+artifacts/
+.vs/
+.vscode/
+*.user
+*.suo
+*.tmp
+*.log
+dnsswitcher.json
+dnsswitcher.json.lock
+TestResults/
