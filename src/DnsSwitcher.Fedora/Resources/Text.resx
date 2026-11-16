@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="Network" xml:space="preserve">
+    <value>Network</value>
+  </data>
+  <data name="NetworkTitle" xml:space="preserve">
+    <value>DNS settings</value>
+  </data>
+  <data name="Benchmark" xml:space="preserve">
+    <value>Benchmark</value>
+  </data>
+  <data name="BenchmarkTitle" xml:space="preserve">
+    <value>DNS benchmark</value>
+  </data>
+  <data name="Providers" xml:space="preserve">
+    <value>Providers</value>
+  </data>
+  <data name="Provider" xml:space="preserve">
+    <value>Provider</value>
+  </data>
+  <data name="Adapter" xml:space="preserve">
+    <value>Network adapter</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Refresh list</value>
+  </data>
+  <data name="Connected" xml:space="preserve">
+    <value>Connected</value>
+  </data>
+  <data name="CurrentDns" xml:space="preserve">
+    <value>Current DNS</value>
+  </data>
+  <data name="Protocol" xml:space="preserve">
+    <value>Protocol</value>
+  </data>
+  <data name="Custom" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="Primary" xml:space="preserve">
+    <value>Primary DNS</value>
+  </data>
+  <data name="Secondary" xml:space="preserve">
+    <value>Secondary DNS (optional)</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Restore automatic DNS</value>
+  </data>
+  <data name="Flush" xml:space="preserve">
+    <value>Flush DNS cache</value>
+  </data>
+  <data name="Applied" xml:space="preserve">
+    <value>DNS applied.</value>
+  </data>
+  <data name="ResetDone" xml:space="preserve">
+    <value>Automatic DNS restored.</value>
+  </data>
+  <data name="Flushed" xml:space="preserve">
+    <value>DNS cache cleared.</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Open DNS Switcher</value>
+  </data>
+  <data name="Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>Start benchmark</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Canceled" xml:space="preserve">
+    <value>Benchmark canceled.</value>
+  </data>
+  <data name="Fastest" xml:space="preserve">
+    <value>Apply fastest</value>
+  </data>
+  <data name="Domains" xml:space="preserve">
+    <value>Domains to query (comma-separated)</value>
+  </data>
+  <data name="Rounds" xml:space="preserve">
+    <value>Rounds per domain</value>
+  </data>
+  <data name="Server" xml:space="preserve">
+    <value>Server</value>
+  </data>
+  <data name="Mean" xml:space="preserve">
+    <value>Avg (ms)</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>Min (ms)</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>Max (ms)</value>
+  </data>
+  <data name="Failures" xml:space="preserve">
+    <value>Failures</value>
+  </data>
+  <data name="Progress" xml:space="preserve">
+    <value>Testing · {0} of {1} queries</value>
+  </data>
+  <data name="Winner" xml:space="preserve">
+    <value>Fastest · {0} · {1} · {2} ms</value>
+  </data>
+  <data name="NoResponses" xml:space="preserve">
+    <value>No DNS answers. Check your internet connection, IPv6 connectivity and outbound UDP port 53.</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="Remove" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>Import JSON</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>Export JSON</value>
+  </data>
+  <data name="AddProvider" xml:space="preserve">
+    <value>Add provider</value>
+  </data>
+  <data name="EditProvider" xml:space="preserve">
+    <value>Edit provider</value>
+  </data>
+  <data name="Id" xml:space="preserve">
+    <value>Command-line ID</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>Provider list saved.</value>
+  </data>
+  <data name="Exported" xml:space="preserve">
+    <value>Providers exported.</value>
+  </data>
+  <data name="RemoveConfirm" xml:space="preserve">
+    <value>Remove “{0}” from the provider list?</value>
+  </data>
+  <data name="ImportConfirm" xml:space="preserve">
+    <value>Replace your current provider list with the {0} imported providers?</value>
+  </data>
+  <data name="InvalidIp" xml:space="preserve">
+    <value>Enter a valid unicast IP address for the selected protocol.</value>
+  </data>
+  <data name="AddressCount" xml:space="preserve">
+    <value>Enter a primary DNS address and at most one secondary address per protocol.</value>
+  </data>
+  <data name="DuplicateIp" xml:space="preserve">
+    <value>Primary and secondary DNS must be different.</value>
+  </data>
+  <data name="InvalidDomain" xml:space="preserve">
+    <value>Enter 1–32 valid DNS names. Use ASCII or Punycode labels.</value>
+  </data>
+  <data name="InvalidProviders" xml:space="preserve">
+    <value>The JSON list must contain at most 64 providers.</value>
+  </data>
+  <data name="InvalidProvider" xml:space="preserve">
+    <value>Check the provider name and unique ID. Use up to 48 lowercase letters, digits, hyphens or underscores for the ID, starting with a letter or digit. “custom” is reserved.</value>
+  </data>
+  <data name="InvalidConfig" xml:space="preserve">
+    <value>Invalid settings. Check the profile UUID, IP family, version and rounds in dnsswitcher.json.</value>
+  </data>
+  <data name="InvalidJson" xml:space="preserve">
+    <value>Invalid DNS Switcher JSON. Check the file format.</value>
+  </data>
+  <data name="FileSize" xml:space="preserve">
+    <value>The JSON file exceeds the 256 KiB limit.</value>
+  </data>
+  <data name="FileAccess" xml:space="preserve">
+    <value>Access denied to the file. Check write permission in the selected folder.</value>
+  </data>
+  <data name="FileError" xml:space="preserve">
+    <value>Could not read or save the file.</value>
+  </data>
+  <data name="ExportConfig" xml:space="preserve">
+    <value>Choose a different filename for the provider export. dnsswitcher.json stores application settings.</value>
+  </data>
+  <data name="Permission" xml:space="preserve">
+    <value>Access denied. Authorize the operation through your session’s PolicyKit agent or check your NetworkManager permissions.</value>
+  </data>
+  <data name="Disconnected" xml:space="preserve">
+    <value>The selected adapter is disconnected or unavailable. Refresh the list and select an active adapter.</value>
+  </data>
+  <data name="NoFamily" xml:space="preserve">
+    <value>This adapter does not support the selected protocol.</value>
+  </data>
+  <data name="VerifyDns" xml:space="preserve">
+    <value>NetworkManager did not confirm the DNS settings.</value>
+  </data>
+  <data name="PostChange" xml:space="preserve">
+    <value>DNS was changed. The preferences or active list could not be updated.</value>
+  </data>
+  <data name="SystemError" xml:space="preserve">
+    <value>NetworkManager could not complete the operation.</value>
+  </data>
+  <data name="SystemTimeout" xml:space="preserve">
+    <value>The system did not answer in time. Refresh the list to check the active settings.</value>
+  </data>
+  <data name="Failed" xml:space="preserve">
+    <value>Operation failed.</value>
+  </data>
+  <data name="ChooseAdapter" xml:space="preserve">
+    <value>Select an active adapter. On the command line, specify --adapter.</value>
+  </data>
+  <data name="NoAdapters" xml:space="preserve">
+    <value>No active network adapters. Connect to a network and refresh the list.</value>
+  </data>
+  <data name="UnknownProvider" xml:space="preserve">
+    <value>Provider ID was not found in the configuration.</value>
+  </data>
+  <data name="SelectProvider" xml:space="preserve">
+    <value>Select a provider in the table.</value>
+  </data>
+  <data name="Usage" xml:space="preserve">
+    <value>Usage: ./dnsswitcher --list | --apply ID [--adapter DEVICE] [--family 4|6] | --reset [--adapter DEVICE] | --flush | --install-launcher</value>
+  </data>
+  <data name="SharedProfile" xml:space="preserve">
+    <value>This profile is active on more than one interface. Use a separate connection profile for this device.</value>
+  </data>
+  <data name="MissingCommand" xml:space="preserve">
+    <value>Required system command is unavailable.</value>
+  </data>
+  <data name="ResolverError" xml:space="preserve">
+    <value>Could not clear the systemd-resolved cache. Check whether the service is active.</value>
+  </data>
+  <data name="RollbackFailed" xml:space="preserve">
+    <value>Check the active DNS and the saved profile. NetworkManager could not confirm recovery after a failed change.</value>
+  </data>
+  <data name="GuiUnavailable" xml:space="preserve">
+    <value>Open DNS Switcher from a graphical session, or use --help.</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Connection profile</value>
+  </data>
+  <data name="AutoHint" xml:space="preserve">
+    <value>Automatic DNS follows the active connection profile.</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="Working" xml:space="preserve">
+    <value>Working…</value>
+  </data>
+  <data name="Offline" xml:space="preserve">
+    <value>Offline</value>
+  </data>
+  <data name="AddLauncher" xml:space="preserve">
+    <value>Add to application menu</value>
+  </data>
+  <data name="LauncherAdded" xml:space="preserve">
+    <value>DNS Switcher is in the application menu.</value>
+  </data>
+  <data name="AppMenu" xml:space="preserve">
+    <value>Application menu</value>
+  </data>
+  <data name="BenchmarkEmpty" xml:space="preserve">
+    <value>Run the benchmark to compare servers.</value>
+  </data>
+</root>
